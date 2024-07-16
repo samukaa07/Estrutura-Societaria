@@ -12,19 +12,32 @@ levando em consideração todos os seus sócios diretos e indiretos, evitando co
 
 estrutura-societaria
 │ pom.xml
-└───src
-└───main
-└───java
-└───com
-└───example
-│ Main.java
-└───model
-│ │ Empresa.java
-│ │ Pessoa.java
-│ │ PessoaFisica.java
-│ │ PessoaJuridica.java
-└───utils
-│ Validador.java
+
+  └───src
+
+    └───main
+
+      └───java
+  
+      └───org
+  
+        └───example
+  
+          │ Main.java
+  
+          └───model
+  
+            │ │ Empresa.java
+    
+            │ │ Pessoa.java
+    
+            │ │ PessoaFisica.java
+    
+            │ │ PessoaJuridica.java
+    
+          └───utils
+  
+            │ Validador.java
 
 
 ## Classes
